@@ -1,0 +1,56 @@
+@media (max-width: 670px) {
+  .item{
+    width: 100%;
+  }
+
+  footer{
+    text-align: center;
+  }
+
+  .btn{
+    width: 100%;
+
+  }
+  .facebook{
+    margin-bottom: 9px;
+  }
+
+  .top-wrapper{
+    text-align: center;
+    padding-top:125px;
+  
+
+  }
+
+  .top-wrapper h1{
+      font-size:24px;
+      text-align: left;
+    }
+
+    .top-wrapper p{
+      font-size:14px;
+
+    }
+
+.modal{
+    position:absolute;
+    top:20%;
+    left:34%;
+    background-color:#e6ecf0;
+    padding:10px 0 20px;
+    border-radius:10px;
+    width:280px;
+    height: auto;
+    text-align: center;
+  }
+
+#signup-form input, #login-form input {
+      width: 250px;
+    }
+
+#submit-btn {
+padding: 15px 80px;
+
+}
+
+}
