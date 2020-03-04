@@ -3,6 +3,11 @@ $('#login-show').click(function(){
   $('#login-modal').fadeIn();
 
 });
+  
+  $('.title').fadeIn(1500);
+$('#p').fadeIn(1650);
+  
+  
 
 $('.signup-show').click(function(){
   $('#signup-modal').fadeIn();
