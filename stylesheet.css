@@ -26,13 +26,16 @@ text-align: center;
   opacity: 0.5;
   font-size: 35px;
   letter-spacing: 5px;
-
+  display:none;
 
 }
 
 .top-wrapper p{
 opacity: 0.7;
 }
+
+#p{
+  display:none;
 
 .btn{
   padding:8px 24px;
