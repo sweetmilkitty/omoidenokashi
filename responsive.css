@@ -52,5 +52,7 @@
 padding: 15px 80px;
 
 }
-
+.contact-form input,textarea{
+  width:350px;
+  
 }
